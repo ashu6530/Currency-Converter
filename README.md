@@ -18,7 +18,7 @@
 - go to https:https://ashu6530.github.io/Currency-Converter/
 
 ### To run `offline`
-- Download the `Currency.Converter.zip` folder from [here](https://github.com/RedEdge967/currency-converter/releases)
+- Download the `Currency.Converter.zip` folder from [here](https://ashu6530.github.io/Currency-Converter/)
 - Extract the folder
 - Run the `index.html` file in your web browser
 ---
